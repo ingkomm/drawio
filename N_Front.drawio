@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eZXsADsYnB0oHYrEAh8l-1" value="테스트야" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="227" width="120" height="60" as="geometry" />
+          <mxGeometry x="283" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eZXsADsYnB0oHYrEAh8l-2" value="테스트 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="438" y="263" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
